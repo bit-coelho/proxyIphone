@@ -1,0 +1,5 @@
+selenium~=3.141.0
+webdriver-manager
+requests~=2.25.1
+beautifulsoup4~=4.9.3
+PySimpleGUI==4.11.0
